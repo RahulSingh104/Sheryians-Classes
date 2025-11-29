@@ -76,3 +76,12 @@ console.groupEnd();
  Object.freeze(obj);
  obj.name  = saloni;
   console.log(obj)
+
+
+  const obj2 ={
+    name: "rahul",
+    age:22,
+    degree:"btech"
+  }
+  obj2.age
+   console.log(obj2)
